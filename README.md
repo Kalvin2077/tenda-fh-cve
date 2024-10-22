@@ -89,3 +89,7 @@ while 1:
 
 ## 9. FH1206 V1.2.0.8(8155)     
 ![](./FH1206-V1.2.0.8-8155/poc.png)
+
+# Discoverer
+
+The vulnerability was discovered by Professor Wei Zhou's team (IoTS&P Lab) from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.
